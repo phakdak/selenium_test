@@ -1,3 +1,3 @@
-# Teacher Todd's selenium template repository
+# Teacher Todd's selenium template repository with a few changes
 
-## This is really simple, in just one class, just to easily show the basics.
+## This is really simple, feel free to continiue the hunt
